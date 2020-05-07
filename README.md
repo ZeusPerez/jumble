@@ -1,6 +1,6 @@
 A repository with notes, tricks, reference, documentation, etc. that I find interesting for coding.
 
-## Languages
+## Specific
 
   ### [GO](go/go.md)
 
@@ -21,7 +21,7 @@ A repository with notes, tricks, reference, documentation, etc. that I find inte
 - [Free-for-dev](https://free-for.dev/#/) - free resources for developers.
 
 ## Books
-
+- [The Pragmatic Programmer](https://ricardogeek.com/docs/r_pragmatic_programmer.pdf)
 
 ## Posts
 - [Refactoring guru](https://refactoring.guru/) - web with design patterns and refactoring.
