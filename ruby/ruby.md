@@ -13,10 +13,12 @@
 - [Design patterns in Ruby](https://refactoring.guru/design-patterns/ruby) - design patterns posts in Ruby.
 - [Design patterns in Ruby](https://github.com/davidgf/design-patterns-in-ruby) - design patterns examples in Ruby.
 - [Tenderlovemaking](https://tenderlovemaking.com/) - blog of Aaron Patterson.
+- [Sihui Huang](https://www.sihui.io/) - blog of Sihui Huang.
 
 ### Books
-- [Practical Object Oriented Design in Ruby](https://www.poodr.com/)
-- [Design Patterns in Ruby](https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452)
+- [Practical Object Oriented Design in Ruby by Sandi Metz](https://www.poodr.com/)
+- Design Patterns in Ruby by Russ Olsen
+- [Refactoring Ruby edition by Marting Fowler](https://martinfowler.com/books/refactoringRubyEd.html)
 
 ### Videos
 - [Carlos Buenosvinos channel](https://www.youtube.com/user/carlosbuenosvinos/videos) - Youtube channel from Carlos Buenosvinos.
