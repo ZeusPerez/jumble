@@ -1,4 +1,5 @@
 ### Tools
+- [Awesome go](https://awesome-go.com/) - huge number of resources for GO.
 - [Godoenv](https://github.com/joho/godotenv) - tool for passing a file with env vars to the GO command.
 - [Gorm](https://gorm.io/) - ORM library for Golang.
 - [Richgo](https://github.com/kyoh86/richgo) - formater for GO tests.

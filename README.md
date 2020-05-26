@@ -20,6 +20,7 @@ A repository with notes, tricks, reference, documentation, etc. that I find inte
 - [Jenkins](https://www.jenkins.io/) - tool for CI.
 - [Free-for-dev](https://free-for.dev/#/) - free resources for developers.
 - [Postman](https://www.postman.com/) - powerful tool for make net requests.
+- [WRK](https://github.com/wg/wrk) - HTTP benchmarking tool.
 
 ## Books
 - [The Pragmatic Programmer](https://ricardogeek.com/docs/r_pragmatic_programmer.pdf)
@@ -28,6 +29,7 @@ A repository with notes, tricks, reference, documentation, etc. that I find inte
 - [Refactoring guru](https://refactoring.guru/) - web with design patterns and refactoring.
 - [Sourcemaking](https://sourcemaking.com/) - web with design patterns, antipatterns and refactoring.
 - [What happens when...](https://github.com/alex/what-happens-when) - post about what happens when you type google.com in your browser and press enter in high level detail.
+- [Roadmap.sh](https://roadmap.sh/) - community driven roadmaps, articles and resources for developers.
 
 
 ## Videos
