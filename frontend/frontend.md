@@ -1,22 +1,30 @@
+# Frontend
 
-### Resources
-[This section has no information yet]
+## Resources
 
-### Tools/Libraries
+- [CSS loaders](https://cssloaders.github.io/)
+
+## Tools/Libraries
+
+- [Hotwire](https://hotwired.dev/) - HTML over the wire
 - [Nextjs](https://nextjs.org/docs/getting-started) - React framework for production
 - [Stimulusjs](https://stimulusjs.org/)
 - [Svelte](https://svelte.dev/) - JS framework
 - [TailwindCSS](https://tailwindcss.com/) - CSS framework
 - [Turbolink](https://github.com/turbolinks/turbolinks) - Faster navigation for web app
 
-### Commands/Scripts
+## Commands/Scripts
+
 [This section has no information yet]
 
-### Posts/Blogs
+## Posts/Blogs
+
+- [Nikhil Bobade](https://dev.to/nikhil27b/) - Blog with interesting Frontend posts.
+
+## Books
+
 [This section has no information yet]
 
-### Books
-[This section has no information yet]
+## Video/Channels
 
-### Video/Channels
 [This section has no information yet]
