@@ -1,6 +1,6 @@
 # Jumble
 
-A repository with notes, tricks, reference, documentation, etc., not very good organised, but I find interesting for coding in general.
+A repository with notes, tricks, reference, documentation, etc., not very good organized, but I find interesting for coding in general.
 
 ## Specific
 
@@ -20,40 +20,54 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 
 ## Resources
 
+- [Advanced Search Tips](https://gist.github.com/dohsimpson/f6b495b7fcfbb80f60021a1359d8121a)
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC.
 - [Awesome software architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.
+- [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome stacks](https://github.com/stackshareio/awesome-stacks) - Tech stacks for building different applications and features.
+- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series.
 - [Free-for-dev](https://free-for.dev/#/) - Free resources for developers.
+- [HTTP static servers one-liners](https://gist.github.com/willurd/5720255)
 - [Keycombinator](https://keycombiner.com/collections/) - Shortcuts for a lot of apps and tools
-- [roadmap.sh](https://roadmap.sh/roadmaps) - Step by step guides and paths to learn different tools or technologies.
+- [Phind](https://www.phind.com/) - The AI search engine for developers.
+- [roadmap.sh](https://roadmap.sh/roadmaps) - Step-by-step guides and paths to learn different tools or technologies.
 - [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet)
+- [SRE Collection](https://github.com/exajobs/sre-collection) - An ongoing & curated collection of awesome SRE software and tools, libraries and frameworks, engineering books and blogs, philosophical principles, technical guidelines and practical tools.
 - [Static analysis tools](https://github.com/analysis-tools-dev/static-analysis) - lists static analysis tools for all programming languages, build tools, config files and more.
 - [Static servers one-liners](https://gist.github.com/willurd/5720255)
-- [The Algorithms](https://the-algorithms.com/) - Collection of algorithms in serveral languages.
+- [Tech Debt - Prevention, Diagnosis and Cure](https://github.com/Hiberly/tech-debt-reading-list) - A tech debt reading and resources list - to help diagnose, prevent and control tech debt.
+- [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [The Algorithms](https://the-algorithms.com/) - Collection of algorithms in several languages.
 
 ## Tools/Libraries
 
 - [Apache Bench](https://httpd.apache.org/docs/2.4/programs/ab.html) - Apache HTTP server benchmarking tool.
-- [Atlas](https://github.com/Netflix/Atlas) - Open source telemtry platform [used and created by Netflix.](https://netflixtechblog.com/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
+- [Atlas](https://github.com/Netflix/Atlas) - Open source telemetry platform [used and created by Netflix.](https://netflixtechblog.com/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a)
 - [Awesome time series anomaly detection](https://github.com/rob-med/awesome-TS-anomaly-detection)
 - [BloomRPC](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC services.
 - [Bpytop](https://github.com/aristocratos/bpytop) - Systems monitoring tool.
 - [btrfs-backup](https://github.com/bob1de/btrfs-backup) - Incremental backups for btrfs.
+- [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue) - A persisted low-latency messaging framework.
 - [Faktory](https://github.com/contribsys/faktory) - A work/jobs server for different languages.
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stacktrace visualizer.
-- [Fluentbit](https://fluentbit.io/) - Log processor and fordwarder.
+- [Fluentbit](https://fluentbit.io/) - Log processor and forwarder.
 - [Gatling](https://gatling.io/) - Load testing tool.
 - [Glances](https://nicolargo.github.io/glances/) - Systems monitoring tool.
-- [Google OR-toolt](https://developers.google.com/optimization) - OOpen source software suite for optimization.
-- [gotop](https://github.com/xxxserxxx/gotop) -  Terminal based graphical activity monitor
+- [Google OR-toolt](https://developers.google.com/optimization) - Open source software suite for optimization.
+- [gotop](https://github.com/xxxserxxx/gotop) - Terminal based graphical activity monitor
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - gRPC curl.
 - [H3](https://h3geo.org/) - Hexagonal hierarchical geospatial indexing system.
+- [IT Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX.
 - [Jenkins](https://www.jenkins.io/) - tool for CI.
+- [JMeter](https://jmeter.apache.org/) - Load testing tool.
 - [K6](https://k6.io/) - Load and soak testing.
+- [Locust](https://locust.io/) - Load testing framework.
 - [Postman](https://www.postman.com/) - powerful tool for make net requests.
+- [Taurus](https://gettaurus.org/) - Load testing tool.
 - [Tokei](https://github.com/XAMPPRocky/tokei) - Count code quickly
 - [Travis CI](https://travis-ci.org/) - tool for CI.
 - [reviewdog](https://github.com/reviewdog/reviewdog) - A code review dog who keeps your codebase healthy.
-- [Siege](https://github.com/JoeDog/siege) - http load tester and benchmarking utility
+- [Siege](https://github.com/JoeDog/siege) - HTTP load tester and benchmarking utility
 - [Sloth](https://github.com/slok/sloth) - Prometheus SLOs and alerts for any kind of service.
 - [Valhalla](https://github.com/valhalla/valhalla) - Valhalla is an open source routing engine and accompanying libraries for use with OpenStreetMap data.
 - [WRK](https://github.com/wg/wrk) - HTTP benchmarking tool.

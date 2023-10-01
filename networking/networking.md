@@ -2,15 +2,16 @@
 
 ## Resources
 
-[This section has no information yet]
+- [http.cat/[code]](http.cat) - HTTP Status code meaning with a funny cat photo.
 
 ## Tools/Libraries
 
 - [httping](https://www.vanheusden.com/httping/) - Ping at HTTP protocol instead of ICMP.
-- [Locust](https://locust.io/) - Load testing framework.
 - [metasploit](https://www.metasploit.com/) - Pen testing framework.
 - [networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 - [nip.io](https://nip.io/) - Dead simple wildcard DNS for any IP Address.
+- [RustScan](https://github.com/RustScan/RustScan) - Port scanner.
+- [Toxiproxy](https://github.com/Shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 
 ## Comands/Scripts
 
