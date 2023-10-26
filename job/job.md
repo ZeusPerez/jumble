@@ -3,12 +3,14 @@
 ## Jobs
 
 - [Companies Hiring During Corona Crisis](https://docs.google.com/spreadsheets/d/1lwZ4ot10j-wvQZgA_hJ0AZJS_X3V9HjVk2QLsAU4WMc/edit#gid=0)
+- [Equal pay for equal work](https://github.com/gi11es/equal-pay-for-equal-work) - A list of organizations that pay remote workers equally regardless of their location.
 - [Golang cafe](https://golang.cafe/)
 - [Golangprojects](https://www.golangprojects.com/) - Golang jobs.
 - [Golang works](https://golang.works-hub.com/)
 - [Remote jobs with Spanish contracts](https://github.com/remote-es/remotes)
 - [Startups hiring remotely by Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 - [Works Hub](https://www.works-hub.com/)
+
 
 ## Interviewing
 
