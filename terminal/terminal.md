@@ -11,6 +11,7 @@
 ## Tools/Libraries
 
 - [Alacritty](https://github.com/alacritty/alacritty) - OpenGL terminal emulator.
+- [bashunit](https://github.com/TypedDevs/bashunit) - Test your bash scripts in the fastest and simplest way, discover the most modern bash testing framework.
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
 - [Commands](https://www.commands.dev/) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output.

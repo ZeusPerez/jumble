@@ -31,8 +31,10 @@
 
 ## Code Challenges
 
+- [1 billion row challenge](https://github.com/gunnarmorling/1brc) - The One Billion Row Challenge. ([Here in Rust](https://curiouscoding.nl/posts/1brc/))
 - [Form3 GO code challenge by hermesdt](https://github.com/hermesdt/form3-challenge)
 - [Kerno GO challenge](https://github.com/kernoio/go-challenge)
 - [LeetCode interview questions](https://leetcode.com/discuss/interview-question)
 - [New Relic code challenge by kkpriya](https://github.com/kkpriya/Code-Challenge)
 - [Shopify Coding On-Site (Package Matcher)](https://leetcode.com/discuss/interview-question/1367405/shopify-coding-on-site-package-matcher)
+- 
