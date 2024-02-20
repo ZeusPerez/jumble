@@ -35,6 +35,7 @@
 - [Richgo](https://github.com/kyoh86/richgo) - formater for GO tests.
 - [sling](https://github.com/dghubble/sling) - HTTP client library for creating and sending API requests.
 - [structslop](https://github.com/orijtech/structslop) - analyzer for get the optimal struct size.
+- [swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table.
 - [Terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [Testcontainers](https://golang.testcontainers.org/)- Makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. 
 - [TinyGO](https://tinygo.org/) - GO compiler for small places.
