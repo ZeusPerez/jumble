@@ -63,6 +63,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [K6](https://k6.io/) - Load and soak testing.
 - [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.
 - [Locust](https://locust.io/) - Load testing framework.
+- [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
 - [Postman](https://www.postman.com/) - powerful tool for make net requests.
 - [Taurus](https://gettaurus.org/) - Load testing tool.
 - [Tokei](https://github.com/XAMPPRocky/tokei) - Count code quickly
