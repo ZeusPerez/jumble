@@ -57,6 +57,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [gotop](https://github.com/xxxserxxx/gotop) - Terminal based graphical activity monitor
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - gRPC curl.
 - [H3](https://h3geo.org/) - Hexagonal hierarchical geospatial indexing system.
+- [HEY](https://github.com/rakyll/hey) - HTTP load generator
 - [IT Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX.
 - [Jenkins](https://www.jenkins.io/) - tool for CI.
 - [JMeter](https://jmeter.apache.org/) - Load testing tool.
