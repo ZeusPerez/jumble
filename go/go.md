@@ -27,6 +27,7 @@
 - [GolangCI](https://github.com/golangci/golangci-lint) - Golang linters for CI.
 - [Goresilience](https://github.com/slok/goresilience) - A library to improve the resilience of Go applications in an easy and flexible way.
 - [Grofer](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang.
+- [JSON-to-Go](https://mholt.github.io/json-to-go/) - Instantly converts JSON into a Go type definition.
 - [Hugo](https://gohugo.io/) - Static site generator.
 - [kingpin](https://github.com/alecthomas/kingpin) - Command line and flag parser.
 - [migration](https://github.com/golang-migrate/migrate) - database migrations written in GO.
