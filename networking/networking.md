@@ -2,6 +2,7 @@
 
 ## Resources
 
+- [How DNS works](https://howdns.works/)
 - [http.cat/[code]](http.cat) - HTTP Status code meaning with a funny cat photo.
 
 ## Tools/Libraries
