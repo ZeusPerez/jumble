@@ -29,7 +29,7 @@
 
 ## Books
 
-[This section has no information yet]
+- [DNS for Rocket Scientists](https://www.zytrax.com/books/dns/)
 
 ## Video/Channels
 
