@@ -4,6 +4,7 @@
 
 - [Companies Hiring During Corona Crisis](https://docs.google.com/spreadsheets/d/1lwZ4ot10j-wvQZgA_hJ0AZJS_X3V9HjVk2QLsAU4WMc/edit#gid=0)
 - [Equal pay for equal work](https://github.com/gi11es/equal-pay-for-equal-work) - A list of organizations that pay remote workers equally regardless of their location.
+- [Established remote companies (hiring globally)](https://github.com/yanirs/established-remote)
 - [Golang cafe](https://golang.cafe/)
 - [Golangprojects](https://www.golangprojects.com/) - Golang jobs.
 - [Golang works](https://golang.works-hub.com/)
