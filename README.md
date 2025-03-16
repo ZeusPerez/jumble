@@ -23,6 +23,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [Advanced Search Tips](https://gist.github.com/dohsimpson/f6b495b7fcfbb80f60021a1359d8121a)
 - [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC.
 - [Awesome software architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) -  A list of awesome Linux softwares.
 - [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome stacks](https://github.com/stackshareio/awesome-stacks) - Tech stacks for building different applications and features.
 - [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series.
