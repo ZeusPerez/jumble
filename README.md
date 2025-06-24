@@ -49,7 +49,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [Bpytop](https://github.com/aristocratos/bpytop) - Systems monitoring tool.
 - [btrfs-backup](https://github.com/bob1de/btrfs-backup) - Incremental backups for btrfs.
 - [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue) - A persisted low-latency messaging framework.
-- [Dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [Dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify, and Heroku.
 - [Faktory](https://github.com/contribsys/faktory) - A work/jobs server for different languages.
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stacktrace visualizer.
 - [Fluentbit](https://fluentbit.io/) - Log processor and forwarder.
@@ -67,13 +67,14 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.
 - [Locust](https://locust.io/) - Load testing framework.
 - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
-- [Postman](https://www.postman.com/) - powerful tool for make net requests.
+- [Postman](https://www.postman.com/) - a powerful tool for making network requests.
+- [reviewdog](https://github.com/reviewdog/reviewdog) - A code review dog who keeps your codebase healthy.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore.
+- [Siege](https://github.com/JoeDog/siege) - HTTP load tester and benchmarking utility
+- [Sloth](https://github.com/slok/sloth) - Prometheus SLOs and alerts for any kind of service.
 - [Taurus](https://gettaurus.org/) - Load testing tool.
 - [Tokei](https://github.com/XAMPPRocky/tokei) - Count code quickly
 - [Travis CI](https://travis-ci.org/) - tool for CI.
-- [reviewdog](https://github.com/reviewdog/reviewdog) - A code review dog who keeps your codebase healthy.
-- [Siege](https://github.com/JoeDog/siege) - HTTP load tester and benchmarking utility
-- [Sloth](https://github.com/slok/sloth) - Prometheus SLOs and alerts for any kind of service.
 - [Valhalla](https://github.com/valhalla/valhalla) - Valhalla is an open source routing engine and accompanying libraries for use with OpenStreetMap data.
 - [WRK](https://github.com/wg/wrk) - HTTP benchmarking tool.
 
