@@ -64,6 +64,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [Jenkins](https://www.jenkins.io/) - tool for CI.
 - [JMeter](https://jmeter.apache.org/) - Load testing tool.
 - [K6](https://k6.io/) - Load and soak testing.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.
 - [Locust](https://locust.io/) - Load testing framework.
 - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
