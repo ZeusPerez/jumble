@@ -16,6 +16,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [Ruby](/ruby/ruby.md)
 - [Rust](/rust/rust.md)
 - [Terminal](/terminal/terminal.md)
+- [AI](/ai/ai.md) 
 - [Job Searching](/job/job.md)
 
 ## Resources
