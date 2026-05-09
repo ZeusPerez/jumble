@@ -7,6 +7,7 @@
 ## Tools/Libraries
 
 - [llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+- [showboat](https://github.com/simonw/showboat) - Create executable documents that demonstrate an agent's work
 
 ## Commands/Scripts
 
