@@ -61,6 +61,7 @@ A repository with notes, tricks, reference, documentation, etc., not very good o
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - gRPC curl.
 - [H3](https://h3geo.org/) - Hexagonal hierarchical geospatial indexing system.
 - [HEY](https://github.com/rakyll/hey) - HTTP load generator
+- [Instatic](https://github.com/corebunch/instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.
 - [IT Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX.
 - [Jenkins](https://www.jenkins.io/) - tool for CI.
 - [JMeter](https://jmeter.apache.org/) - Load testing tool.
